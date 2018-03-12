@@ -1,0 +1,15 @@
+{
+  "name": "twitter-multiple-account-post",
+  "version": "1.0.0",
+  "description": "Twitter multiple account post",
+  "main": "index.js",
+  "author": "Jesús Urrutia <jesus.urrutia@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "twitt": "node index.js"
+  }
+}
